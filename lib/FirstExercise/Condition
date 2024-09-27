@@ -1,0 +1,6 @@
+Exercițiul 1 - Crearea unui simplu InheritedWidget pentru contorizare
+Condiții:
+1.Creează un InheritedWidget care partajează o valoare numerică (un contor).
+2.Mai multe widget-uri din aplicație trebuie să afișeze valoarea acestui contor.
+3.Creează un buton care să actualizeze valoarea contorului și să actualizeze automat toate widget-urile dependente.
+
