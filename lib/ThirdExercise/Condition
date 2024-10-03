@@ -1,0 +1,7 @@
+Exercițiul 3: Crearea unei liste partajate cu InheritedWidget
+Scop: Să creezi un InheritedWidget care să partajeze o listă de itemi și să poți adăuga sau elimina itemi din listă.
+
+1.Creează un InheritedWidget care să gestioneze o listă de itemi (poate fi o listă de string-uri).
+2.Creează un widget care să afișeze toți itemii din listă folosind ListView.
+3.Creează un formular cu un câmp text pentru a adăuga itemi noi în listă.
+4.Creează un buton pentru a elimina un item din listă.

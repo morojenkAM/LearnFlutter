@@ -1,0 +1,6 @@
+Exercițiul 2: Gestionarea temei aplicației cu InheritedWidget
+Scop: Să folosești InheritedWidget pentru a controla tema (culorile) aplicației și să partajezi această stare între mai multe widget-uri.
+
+1.Creează un InheritedWidget care să gestioneze tema aplicației (culori pentru fundal și text).
+2.Implementează două widget-uri care să folosească acest InheritedWidget pentru a afișa textul și fundalul în culorile definite de temă.
+3.Adaugă un buton care schimbă tema între o temă deschisă și una închisă, actualizând culorile afișate în widget-uri.

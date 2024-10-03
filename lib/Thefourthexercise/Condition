@@ -1,0 +1,7 @@
+Exercițiul 4: Crearea unei aplicații de utilizatori partajate cu InheritedWidget
+Scop: Să creezi un InheritedWidget care să gestioneze o listă de utilizatori și să poți adăuga și edita utilizatori.
+
+-Creează un InheritedWidget care să partajeze o listă de utilizatori, fiecare utilizator având un nume și o vârstă.
+-Creează o pagină principală care afișează lista de utilizatori.
+-Creează un formular pentru a adăuga un utilizator nou în listă.
+-Creează funcționalitatea de editare a utilizatorilor existenți și actualizează lista corespunzător.
