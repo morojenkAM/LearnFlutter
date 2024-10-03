@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'ThemedText.dart';
 import 'ThemeInheritedWidget.dart';
 import 'AppTheme.dart';
-import 'ThemedText.dart';
 
 class MyApp extends StatefulWidget {
   @override
